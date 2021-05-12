@@ -1,4 +1,4 @@
-## Justice Coin
+# Justice Coin
 
 JusticeCoin is a blockchain based mining scheme which harnesses distributed computing power to generate revenue for non-profits supporting economic and social justice
 
