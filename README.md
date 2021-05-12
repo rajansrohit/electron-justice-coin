@@ -4,7 +4,7 @@ JusticeCoin is a blockchain based mining scheme which harnesses distributed comp
 
 This decentralized mining application serves to allow everyday laptops and computers to help empower economic and social justice
 
-# Installation and Development
+### Installation and Development
 Install required dependencies and libraries:
 ```yarn install```
 
