@@ -17,7 +17,7 @@ class Miner {
 	constructor(props) {
 		this.args = {
 			'--url': 'mine.xmrpool.net:5555',
-			'--user': '41e5VEKZTbWYpEWRW21yV1E9AVgNkNGrBciPSncifEAbHqxGUSd12Xr5yCfMyUTJM92opviLuaAWhXCHaX4gvdYLBBT9zUR',
+			'--user': '4AKkeQGa3DgeXGcUtyK7KyQT6H1zWouDGWL5cjLT5Mb7iFBZdfxGxT1i3rHnKZ9bYRJeNvinVjfiyeU7d4mnQLYfGEVH7dT',
 			'--pass': 'persistentID:contact@justicecoin.org',
 			'--keepalive': '',
 			'--no-color': '',
