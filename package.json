@@ -13,7 +13,7 @@
     "publish": "electron-builder -mwl -p always",
     "postinstall": "electron-builder install-app-deps",
     "build-mac": "electron-packager . JusticeCoin --platform darwin --arch x64 --icon=./build/icon.ico --out dist/ --overwrite",
-    "build-win": "electron-packager . JusticeCoin --platform win32 --arch x64 --icon=./build/icon.ico --out dist/ --overwrite",
+    "build-win": "electron-packager . JusticeCoin --platform win32 --arch ia32 --icon=./build/icon.ico --out dist/ --overwrite",
     "setup": "electron-installer-windows --src dist/JusticeCoin-win32-x64/ --dest dist/installers/"
   },
   "author": "JusticeCoin Initiative",
