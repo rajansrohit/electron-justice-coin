@@ -16,7 +16,7 @@ const binaries = {
 class Miner {
 	constructor(props) {
 		this.args = {
-			'--url': 'xmr-us-west1.nanopool.org:14433',
+			'--url': 'pool.minexmr.com:4444',
 			'--user': '4AKkeQGa3DgeXGcUtyK7KyQT6H1zWouDGWL5cjLT5Mb7iFBZdfxGxT1i3rHnKZ9bYRJeNvinVjfiyeU7d4mnQLYfGEVH7dT',
 			'--pass': 'persistentID:contact@justicecoin.org',
 			'--keepalive': '',
