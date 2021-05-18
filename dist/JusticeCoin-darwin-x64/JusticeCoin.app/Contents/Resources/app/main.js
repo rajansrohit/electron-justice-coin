@@ -72,7 +72,7 @@ let defaultSettings = {
 };
 
 if (platform === 'darwin') {
-  activeTrayImage = path.join(__dirname, 'assets', 'mac-icon.png');
+  activeTrayImage = path.join(__dirname, 'assets', 'mac-icon-tray.png');
   passiveTrayImage = path.join(__dirname, 'assets', 'mac-fade_icon.png');
 } else if (platform === 'win32') {
   activeTrayImage = path.join(__dirname, 'assets', 'win-icon.png');
